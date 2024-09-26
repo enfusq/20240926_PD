@@ -6,6 +6,7 @@
     <title>Piesakies webināram!</title>
 </head>
 <body>
+    <a href="blog.php">Blog page</a>
     <div id="form-container">
         <form action="confirmation.php" method="post">
             <label for="name">Ievadiet savu vārdu: </label>

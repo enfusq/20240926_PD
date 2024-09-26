@@ -25,5 +25,7 @@
             <li>Ļoti interesanti ir ko tu vari paveikt ar programmēšanu</li>
         </ul>
     </div>
+
+    <a href="index.php">Home page</a>
 </body>
 </html>

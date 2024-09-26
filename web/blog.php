@@ -10,13 +10,13 @@
     <h1>Tiešsaites dienasgrāmata</h1>
 
     <div id="biography">
-        <h2>Biogrāfija</h2>
+        <h2 class="small-headings">Biogrāfija</h2>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint eligendi explicabo magni eum possimus! Nobis amet dolorum, earum corporis ab quae inventore. Consequuntur odio molestiae perferendis, sit repellendus nisi tempora? Veniam veritatis, nisi nemo libero deleniti velit optio fugit sint blanditiis a, culpa distinctio. Asperiores quos suscipit, nulla a voluptatum, ex nihil consectetur perferendis officia consequatur placeat inventore voluptate omnis facere minima itaque? Libero enim fugiat assumenda sed accusantium dolores eius laudantium dolorem consequuntur a quod et laboriosam eum alias odio velit sapiente fugit corrupti quam esse voluptatibus, cupiditate expedita quasi? Adipisci, vero similique excepturi sequi sint quas quae illum.</p>
 
     </div>
 
     <div id="why-programmer">
-        <h2>Kāpēc es nolēmu kļūt par programmētaju?</h2>
+        <h2 class="small-headings">Kāpēc es nolēmu kļūt par programmētaju?</h2>
 
         <ul>
             <li>Laba alga</li>

@@ -31,6 +31,8 @@
             <input type="radio" name="info" id="no">
         </form>
     </div>
+
+    
     <script src="js/app.js"></script>
 </body>
 </html>

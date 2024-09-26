@@ -29,6 +29,10 @@
 
             <label for="no">No:</label>
             <input type="radio" name="info" id="no">
+
+            <br><br>
+
+            <button type="submit">Submit!</button>
         </form>
     </div>
 

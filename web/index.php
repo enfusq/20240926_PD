@@ -32,7 +32,23 @@
         </form>
     </div>
 
-    
+    <?php
+        $registered = [
+            1 => ["name" => "Jānis Bērziņš", "e-mail" => "janis@berzins.com", "difficulty" => "Intermediate"],
+            2 => ["name" => "Dairis Liepiņš", "e-mail" => "dairis@liepins.com", "difficulty" => "Beginner"],
+            3 => ["name" => "Antra Kalniņa", "e-mail" => "antra@kalnina.com", "difficulty" => "Advanced"],
+        ];
+
+        echo "<h2>Jau reģistrējušies</h2>";
+        echo "<ul>";
+        foreach($registered as $key => $value) {
+            echo "<li>";
+            echo "{$value['name']}, {$value['e-mail']}, {$value['difficulty']}";
+            echo "</li>";
+        }
+        echo "</ul>";
+    ?>
+
     <script src="js/app.js"></script>
 </body>
 </html>

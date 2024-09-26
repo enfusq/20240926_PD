@@ -4,7 +4,7 @@ class Task {
     private $id;
     private $title;
 
-    public function __construct($id, $title) {
+    public function __construct($id, $title, $description) {
         $this->id = $id;
         $this->title = $title;
         $this->description = $description;

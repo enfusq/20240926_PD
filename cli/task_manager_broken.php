@@ -33,6 +33,7 @@ function displayAllTasks($tasks) {
         echo "No tasks available.\n";
     } else {
         foreach ($tasks as $task) {
+            $task->displayTask();
         }
     }
 }

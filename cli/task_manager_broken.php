@@ -98,7 +98,7 @@ while (true) {
             updateTask($tasks);
             break;
         case 4:
-            deleteTasks();
+            deleteTasks($tasks);
             break;
         case 5:
             echo "Exiting the application. Goodbye!\n";

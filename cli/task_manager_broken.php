@@ -46,7 +46,7 @@ function createTask(&$tasks) {
     $lastKey = key($tasks);
     $id = $lastKey + 1;
 
-    $tasks[$id] = new Task();
+    $tasks[$id] = new Task($id, $title, $description);
     echo "Task Created.\n";
 }
 

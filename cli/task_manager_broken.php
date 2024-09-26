@@ -33,7 +33,7 @@ class Task {
     }
 
     public function getCategory() {
-        return $this->catrgory;
+        return $this->category;
     }
 
     public function displayTask() {
